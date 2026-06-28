@@ -11,7 +11,7 @@ from constants import CHROMA_SETTINGS
 from pprint import pprint
 import json
 
-st.set_page_config(page_title="Amit Agarwal's RAG", layout="wide")
+st.set_page_config(page_title="Amit Kumar's RAG", layout="wide")
 
 # Initialize the model and database
 model = os.environ.get("MODEL", "llama3.2:1b")
