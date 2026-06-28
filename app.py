@@ -3,10 +3,10 @@
 import os
 import time
 import streamlit as st
-from langchain.chains import RetrievalQA
-from langchain.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import Chroma
-from langchain.llms import Ollama
+from langchain_classic.chains import RetrievalQA
+from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
+from langchain_community.llms import Ollama
 from constants import CHROMA_SETTINGS
 from pprint import pprint
 import json
@@ -14,7 +14,7 @@ import json
 st.set_page_config(page_title="Amit Agarwal's RAG", layout="wide")
 
 # Initialize the model and database
-model = os.environ.get("MODEL", "phi3")
+model = os.environ.get("MODEL", "llama3.2:1b")
 embeddings_model_name = os.environ.get("EMBEDDINGS_MODEL_NAME", "all-MPnet-base-v2")
 persist_directory = os.environ.get("PERSIST_DIRECTORY", "db")
 target_source_chunks = st.slider("Number of Documents to Retrieve (top_k)", 1, 50, 15)
