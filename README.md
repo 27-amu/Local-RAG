@@ -2,7 +2,7 @@
 
 No API tokens needed (not even OpenAPI), run the RAG from your laptop/desktop/server using any model from HuggingFace.
 
-Inspired by [PromptEngineer48 ollama repo](https://github.com/PromptEngineer48/Ollama). Modified according to my needs.
+
 
 ## How to use/run/install
 
