@@ -20,23 +20,32 @@ persist_directory = os.environ.get("PERSIST_DIRECTORY", "db")
 target_source_chunks = st.slider("Number of Documents to Retrieve (top_k)", 1, 50, 15)
 
 
+@st.cache_resource
+def load_embeddings():
+    return HuggingFaceEmbeddings(model_name=embeddings_model_name)
+
+@st.cache_resource
+def load_db(_embeddings):
+    return Chroma(persist_directory=persist_directory, embedding_function=_embeddings)
+
+@st.cache_resource
+def load_llm():
+    return Ollama(model=model)
+
+embeddings = load_embeddings()
+db = load_db(embeddings)
+llm = load_llm()
+
 def get_all_docs():
-    print(db.get().keys())
     all_data=[]
-
     docs = db.get()['metadatas']
-
     for x in docs:
         all_data.append(x['source'])
-
     return set(all_data)
 
-
-embeddings = HuggingFaceEmbeddings(model_name=embeddings_model_name)
-db = Chroma(persist_directory=persist_directory, embedding_function=embeddings)
-retriever = db.as_retriever(search_kwargs={"k": target_source_chunks})
-llm = Ollama(model=model)
-qa = RetrievalQA.from_chain_type(llm=llm, chain_type="stuff", retriever=retriever, return_source_documents=True)
+def get_qa_chain(k):
+    retriever = db.as_retriever(search_kwargs={"k": k})
+    return RetrievalQA.from_chain_type(llm=llm, chain_type="stuff", retriever=retriever, return_source_documents=True)
 
 # Initialize Streamlit session state
 if 'history' not in st.session_state:
@@ -63,6 +72,7 @@ def main():
         else:
             with st.spinner("Processing..."):
                 start = time.time()
+                qa = get_qa_chain(target_source_chunks)
                 res = qa(query)
                 answer, docs = res['result'], [] if hide_source else res['source_documents']
                 end = time.time()
