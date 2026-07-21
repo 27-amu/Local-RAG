@@ -1,0 +1,369 @@
+MEDICAL HANDBOOK — COMMON DISEASES, SYMPTOMS, TREATMENTS & PREVENTION
+
+=======================================================================
+CHAPTER 1: DIABETES
+=======================================================================
+
+What is Diabetes?
+Diabetes is a chronic disease that occurs when the pancreas does not produce enough insulin, or when the body cannot effectively use the insulin it produces. Insulin is a hormone that regulates blood sugar (glucose). High blood sugar over time leads to serious damage to the heart, blood vessels, eyes, kidneys, and nerves.
+
+Types of Diabetes:
+
+Type 1 Diabetes:
+- The body produces little or no insulin
+- The immune system attacks the insulin-producing beta cells in the pancreas
+- Usually diagnosed in children and young adults
+- Requires daily insulin injections to survive
+- Cannot be prevented
+
+Type 2 Diabetes:
+- The body does not use insulin properly (insulin resistance)
+- Most common type — accounts for 90-95% of all diabetes cases
+- Strongly linked to obesity, physical inactivity, and poor diet
+- Can often be managed with lifestyle changes, oral medication, or insulin
+- Can be prevented or delayed with healthy lifestyle
+
+Gestational Diabetes:
+- Occurs during pregnancy
+- Usually disappears after delivery but increases risk of Type 2 later
+- Requires monitoring during pregnancy to protect mother and baby
+
+Symptoms of Diabetes:
+- Frequent urination (polyuria)
+- Excessive thirst (polydipsia)
+- Unexplained weight loss
+- Extreme hunger
+- Blurred vision
+- Fatigue and lack of energy
+- Slow healing of wounds and cuts
+- Tingling or numbness in hands and feet
+- Frequent infections (skin, gum, bladder)
+
+Normal Blood Sugar Levels:
+- Fasting blood sugar: 70–99 mg/dL (normal)
+- Fasting blood sugar: 100–125 mg/dL (prediabetes)
+- Fasting blood sugar: 126 mg/dL or above (diabetes)
+- HbA1c below 5.7% (normal), 5.7–6.4% (prediabetes), 6.5% or above (diabetes)
+
+Treatment:
+- Type 1: Insulin therapy (injections or pump), blood sugar monitoring, carbohydrate counting
+- Type 2: Metformin (first-line drug), lifestyle changes, SGLT2 inhibitors, GLP-1 receptor agonists
+- Diet: Low glycemic index foods, avoid refined sugar, high fiber diet
+- Exercise: 30 minutes of moderate activity 5 days a week
+
+Complications if Untreated:
+- Heart disease and stroke
+- Kidney disease (diabetic nephropathy)
+- Eye damage leading to blindness (diabetic retinopathy)
+- Nerve damage (diabetic neuropathy)
+- Foot amputation due to poor wound healing
+- Diabetic ketoacidosis (DKA) — life threatening in Type 1
+
+Prevention (Type 2):
+- Maintain healthy body weight
+- Exercise regularly
+- Eat a balanced diet low in sugar and refined carbs
+- Avoid smoking and limit alcohol
+- Regular blood sugar screening after age 40
+
+=======================================================================
+CHAPTER 2: HYPERTENSION (HIGH BLOOD PRESSURE)
+=======================================================================
+
+What is Hypertension?
+Hypertension means the force of blood against artery walls is consistently too high. It is called the "silent killer" because it has no symptoms but causes heart attacks, strokes, and kidney failure.
+
+Blood Pressure Categories:
+- Normal: Less than 120/80 mmHg
+- Elevated: 120–129 / less than 80 mmHg
+- Stage 1 Hypertension: 130–139 / 80–89 mmHg
+- Stage 2 Hypertension: 140 or higher / 90 or higher mmHg
+- Hypertensive Crisis: Higher than 180/120 mmHg — emergency
+
+Causes:
+- Primary (Essential) Hypertension: No identifiable cause, develops over years
+- Secondary Hypertension: Caused by kidney disease, thyroid problems, obstructive sleep apnea, or certain medications
+
+Risk Factors:
+- Age (risk increases with age)
+- Family history
+- Obesity
+- Physical inactivity
+- High salt diet
+- Heavy alcohol consumption
+- Stress
+- Smoking
+- Chronic kidney disease
+
+Symptoms:
+Most people have NO symptoms. When severe:
+- Severe headache
+- Nosebleeds
+- Shortness of breath
+- Chest pain
+- Visual changes
+- Blood in urine
+
+Treatment:
+Lifestyle changes:
+- DASH diet (Dietary Approaches to Stop Hypertension) — low sodium, rich in fruits, vegetables, whole grains
+- Reduce sodium intake to less than 2300 mg/day
+- Regular aerobic exercise
+- Limit alcohol
+- Quit smoking
+- Stress management (yoga, meditation)
+
+Medications:
+- ACE inhibitors (e.g., Lisinopril, Enalapril)
+- ARBs (e.g., Losartan, Valsartan)
+- Calcium channel blockers (e.g., Amlodipine)
+- Diuretics (e.g., Hydrochlorothiazide)
+- Beta blockers (e.g., Metoprolol)
+
+Complications:
+- Heart attack and heart failure
+- Stroke
+- Aneurysm
+- Kidney failure
+- Vision loss
+- Metabolic syndrome
+
+=======================================================================
+CHAPTER 3: HEART DISEASE
+=======================================================================
+
+What is Heart Disease?
+Heart disease refers to several conditions affecting the heart's structure and function. The most common is coronary artery disease (CAD), where plaque builds up in the arteries supplying the heart, reducing blood flow.
+
+Types:
+- Coronary Artery Disease (CAD): Blocked or narrowed coronary arteries
+- Heart Failure: Heart cannot pump blood efficiently
+- Arrhythmia: Irregular heartbeat
+- Heart Valve Disease: Valves don't open/close properly
+- Congenital Heart Disease: Present from birth
+
+Symptoms of Heart Attack (Myocardial Infarction):
+- Chest pain or pressure (feels like squeezing or tightness)
+- Pain radiating to left arm, jaw, neck, or back
+- Shortness of breath
+- Nausea and cold sweats
+- Sudden dizziness or lightheadedness
+- Fatigue
+
+Women may experience atypical symptoms like nausea, back pain, and jaw pain without chest pain.
+
+Risk Factors:
+- High blood pressure
+- High cholesterol (LDL above 130 mg/dL is high risk)
+- Diabetes
+- Smoking
+- Obesity (BMI above 30)
+- Family history
+- Age (men above 45, women above 55)
+- Sedentary lifestyle
+- Stress
+
+Treatment:
+- Medications: Aspirin, Statins (Atorvastatin), Beta blockers, Nitroglycerin
+- Procedures: Angioplasty, Stent placement, Bypass surgery (CABG)
+- Lifestyle: Heart-healthy diet, exercise, quit smoking
+
+Prevention:
+- Control blood pressure and cholesterol
+- Maintain healthy weight
+- Exercise 150 minutes per week moderate intensity
+- Eat Mediterranean diet — olive oil, fish, nuts, vegetables
+- Quit smoking
+- Manage diabetes and stress
+
+=======================================================================
+CHAPTER 4: RESPIRATORY DISEASES
+=======================================================================
+
+ASTHMA
+
+What is Asthma?
+A chronic condition where airways become inflamed, narrow, and produce extra mucus, making breathing difficult.
+
+Triggers:
+- Allergens: Pollen, dust mites, pet dander, mold
+- Air pollutants and smoke
+- Exercise (Exercise-induced asthma)
+- Cold air
+- Respiratory infections
+- Strong emotions and stress
+- Medications: Aspirin, NSAIDs, Beta blockers
+
+Symptoms:
+- Wheezing (whistling sound when breathing)
+- Shortness of breath
+- Chest tightness
+- Chronic cough, especially at night
+
+Treatment:
+- Quick-relief (rescue) inhalers: Salbutamol (Albuterol) — for immediate relief
+- Long-term control: Inhaled corticosteroids (Budesonide, Fluticasone)
+- Leukotriene modifiers (Montelukast)
+- Biologics for severe asthma (Omalizumab)
+- Avoid triggers, use air purifiers
+
+PNEUMONIA
+
+What is Pneumonia?
+Infection that inflames air sacs in one or both lungs, which may fill with fluid or pus.
+
+Causes:
+- Bacterial: Streptococcus pneumoniae (most common)
+- Viral: Influenza, COVID-19, RSV
+- Fungal: Pneumocystis jirovecii (in immunocompromised patients)
+
+Symptoms:
+- High fever with chills and sweating
+- Cough with phlegm (yellow, green, or bloody)
+- Chest pain when breathing or coughing
+- Shortness of breath
+- Fatigue
+- Nausea and vomiting
+
+Treatment:
+- Bacterial pneumonia: Antibiotics (Amoxicillin, Azithromycin)
+- Viral pneumonia: Antivirals, rest, supportive care
+- Hospitalization for severe cases, oxygen therapy
+- Pneumococcal vaccine prevents most bacterial pneumonia
+
+=======================================================================
+CHAPTER 5: MENTAL HEALTH
+=======================================================================
+
+DEPRESSION
+
+What is Depression?
+A common but serious mood disorder that causes persistent feelings of sadness, hopelessness, and loss of interest. It affects how a person thinks, feels, and handles daily activities.
+
+Symptoms (must be present for at least 2 weeks):
+- Persistent sad or empty mood
+- Loss of interest in activities once enjoyed
+- Changes in appetite and weight
+- Sleep disturbances (insomnia or oversleeping)
+- Fatigue and loss of energy
+- Feelings of worthlessness or excessive guilt
+- Difficulty concentrating or making decisions
+- Thoughts of death or suicide
+
+Types:
+- Major Depressive Disorder (MDD)
+- Persistent Depressive Disorder (Dysthymia) — chronic, less severe
+- Bipolar Disorder — episodes of depression and mania
+- Seasonal Affective Disorder (SAD) — linked to seasonal changes
+- Postpartum Depression — after childbirth
+
+Treatment:
+- Psychotherapy: Cognitive Behavioral Therapy (CBT) — most effective
+- Medications: SSRIs (Fluoxetine, Sertraline), SNRIs (Venlafaxine)
+- Combination of therapy and medication most effective
+- Lifestyle: Regular exercise, sleep hygiene, social support
+- In severe cases: Electroconvulsive Therapy (ECT)
+
+ANXIETY DISORDERS
+
+Types:
+- Generalized Anxiety Disorder (GAD): Excessive worry about everyday things
+- Panic Disorder: Recurrent unexpected panic attacks
+- Social Anxiety Disorder: Fear of social situations
+- Phobias: Intense fear of specific objects or situations
+- OCD and PTSD are related but separate conditions
+
+Symptoms:
+- Excessive worry or fear
+- Restlessness and feeling on edge
+- Rapid heartbeat
+- Sweating and trembling
+- Difficulty concentrating
+- Sleep problems
+
+Treatment:
+- CBT (most effective)
+- Medications: SSRIs, Benzodiazepines (short term only), Buspirone
+- Mindfulness and relaxation techniques
+- Regular exercise reduces anxiety significantly
+
+=======================================================================
+CHAPTER 6: FIRST AID & EMERGENCY BASICS
+=======================================================================
+
+HEART ATTACK — Emergency Steps:
+1. Call emergency services (112 or 911) immediately
+2. Ask the person to sit or lie down comfortably
+3. Loosen tight clothing
+4. Give Aspirin 325mg to chew if not allergic
+5. Begin CPR if person becomes unconscious and not breathing
+6. Use AED (Automated External Defibrillator) if available
+
+CPR STEPS (Adult):
+1. Check for responsiveness — tap shoulders, shout
+2. Call for help — 112/911
+3. 30 chest compressions — push hard and fast, 2 inches deep, 100-120/minute
+4. 2 rescue breaths — tilt head, lift chin, breathe in for 1 second
+5. Continue 30:2 ratio until help arrives
+
+CHOKING — Heimlich Maneuver:
+1. Stand behind the person
+2. Make a fist with one hand, place thumb side against abdomen just above navel
+3. Grasp fist with other hand
+4. Give quick upward thrusts until object is expelled
+5. For infants — 5 back blows + 5 chest thrusts
+
+BURNS:
+- First degree (redness): Cool water for 10-20 minutes, do NOT use ice
+- Second degree (blisters): Cool water, cover with sterile bandage, seek medical help
+- Third degree (deep tissue): Call emergency, do NOT remove clothing, cover loosely
+
+STROKE — Remember FAST:
+- F — Face drooping (ask to smile, is one side drooping?)
+- A — Arm weakness (ask to raise both arms, does one drift down?)
+- S — Speech difficulty (slurred or strange speech?)
+- T — Time to call 911 immediately
+
+=======================================================================
+CHAPTER 7: COMMON MEDICATIONS & THEIR USES
+=======================================================================
+
+Paracetamol (Acetaminophen):
+- Use: Fever, mild to moderate pain
+- Dose: 500mg-1000mg every 4-6 hours, max 4g/day
+- Caution: Avoid alcohol, dangerous in overdose — causes liver failure
+
+Ibuprofen (NSAID):
+- Use: Pain, fever, inflammation (arthritis, muscle pain)
+- Dose: 200-400mg every 4-6 hours with food
+- Caution: Avoid in kidney disease, ulcers, avoid in last trimester of pregnancy
+
+Amoxicillin (Antibiotic):
+- Use: Bacterial infections — throat, ear, chest, urinary tract
+- Dose: 250-500mg three times daily
+- Caution: Check for penicillin allergy, complete full course
+
+Omeprazole (Proton Pump Inhibitor):
+- Use: Acid reflux, GERD, stomach ulcers
+- Dose: 20-40mg once daily before meals
+- Caution: Not for long-term use without medical supervision
+
+Metformin:
+- Use: Type 2 Diabetes — first line treatment
+- Dose: 500-2000mg daily with meals
+- Caution: Stop before contrast dye procedures, avoid in kidney failure
+
+Atorvastatin (Statin):
+- Use: High cholesterol, heart disease prevention
+- Dose: 10-80mg once daily at night
+- Side effects: Muscle pain (myopathy), liver enzyme elevation
+
+Salbutamol (Albuterol) Inhaler:
+- Use: Asthma — quick relief of bronchospasm
+- Dose: 1-2 puffs every 4-6 hours as needed
+- Caution: Overuse may indicate poor asthma control
+
+=======================================================================
+IMPORTANT DISCLAIMER
+=======================================================================
+This handbook is for educational purposes only. Always consult a qualified healthcare professional for diagnosis and treatment. Do not self-medicate based on this information alone.
